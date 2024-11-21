@@ -1,6 +1,15 @@
-# Hi there, I'm Lee 👋
+# Hello, I'm Lee 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=LeeCoder&style=flat-square)
+___
+
+I'm a Junior Front-end Developer at Advanced Automation Corp.
+
+As a front-end developer, I create responsive, and accessibile design systems.  I enjoy learning about and growing within my field.
+
+I can found here:
+- LinkedIn: [Profile](https://www.linkedin.com/in/lee-paulison-jr/ "Lee Paulison Jr")
+- Website: [LeePaulisonJr.com](http://www.leepaulisonjs.com "LeePaulisonJr.com")
+___
 
 ## 🚀 About Me
 - 🔭 I’m currently have two projects mid-stream
