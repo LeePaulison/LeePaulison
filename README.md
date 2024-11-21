@@ -7,12 +7,10 @@
   - Project-404 a developer focused Gen-AI app utilizing chatGPT-4o
   - Designing Possibilities my professional Blog
 - 🌱 I’m currently learning advanced React and TypeScript.
-- 🛠️ I specialize in front-end development with **React** and **Bootstrap**
-- 🎯 Goals: Become an accessibility-certified developer.
+- 🛠️ I specialize in front-end development with **React**, **Bootstrap**, **TailwindCSS**, and **Chakra-UI**
+- 🎯 Goals:
+  - currently working towards my IAAP Certifications
 
 ## 🛠️ My Toolbox
 - **Languages**: ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square)
 - **Frameworks**: ![React](https://img.shields.io/badge/Code-React-blue?style=flat-square)
-
-## 📊 GitHub Stats
-![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeCoder&show_icons=true&theme=radical)
