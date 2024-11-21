@@ -8,7 +8,7 @@ As a front-end developer, I create responsive, and accessibile design systems.  
 
 I can found here:
 - LinkedIn: [Profile](https://www.linkedin.com/in/lee-paulison-jr/ "Lee Paulison Jr")
-- Website: [LeePaulisonJr.com](http://www.leepaulisonjs.com "LeePaulisonJr.com")
+- Website: [leepaulisonjr.com](http://www.leepaulisonjr.com "leepaulisonlr.com")
 ___
 
 ## 🚀 About Me
