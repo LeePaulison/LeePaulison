@@ -14,9 +14,8 @@ ___
 ## 🚀 About Me
 - 🔭 I’m currently have two projects mid-stream
   - Project-404 a developer focused Gen-AI app utilizing chatGPT-4o
-  - Designing Possibilities my professional Blog
-- 🌱 I’m currently learning advanced React and TypeScript.
-- 🛠️ I specialize in front-end development with **React**, **Bootstrap**, **TailwindCSS**, and **Chakra-UI**
+- 🌱 I’m currently learning advanced React, NextJS and TypeScript.
+- 🛠️ I specialize in front-end development with **React**, **Bootstrap**, **TailwindCSS**, and **Radix-UI**
 - 🎯 Goals:
   - currently working towards my IAAP Certifications
 
