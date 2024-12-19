@@ -12,7 +12,7 @@ I can found here:
 ___
 
 ## 🚀 About Me
-- 🔭 I’m currently have two projects mid-stream
+- 🔭 I’m currently have one project mid-stream
   - Project-404 a developer focused Gen-AI app utilizing chatGPT-4o
 - 🌱 I’m currently learning advanced React, NextJS, and TypeScript.
 - 🛠️ I specialize in front-end development with **React**, **Bootstrap**, **TailwindCSS**, and **Radix-UI**
