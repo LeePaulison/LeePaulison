@@ -17,7 +17,7 @@ ___
 - 🌱 I’m currently learning advanced React, NextJS, and TypeScript.
 - 🛠️ I specialize in front-end development with **React**, **Bootstrap**, **TailwindCSS**, and **Radix-UI**
 - 🎯 Goals:
-  - currently working towards my IAAP Certifications
+  - currently working towards my IAAP Certifications, specifically Web Accessibility Specialist (WAS)
 
 ## 🛠️ My Toolbox
 - **Languages**: ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square)
